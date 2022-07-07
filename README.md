@@ -1,6 +1,6 @@
 # Aadhar Address Formater
 
-UIDAI_HackathonProject I, Siddhant, with my teammates Shubham, Aayushi and Vishal have developed a java project on "Address Formatting" using J2EE framework. In this project, we have formatted the address by removing the repetitive words in it.
+UIDAI_HackathonProject I, Siddhant Gupta, with my teammates Shubham, Aayushi and Vishal have developed a java project on "Address Formatting" using J2EE framework. In this project, we have formatted the address by removing the repetitive words in it.
 
 PROBLEM STATEMENT
 
